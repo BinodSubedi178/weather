@@ -13,7 +13,6 @@ Technologies Used
 React: The app is built using React for building the user interface and managing state.
 OpenWeatherMap API: Used to fetch real-time weather data.
 CSS: Basic styling to display weather information cleanly.
-Lessons Learned
 
 Key Concepts:
 React useState and useEffect: Gained experience managing state in React and using the useEffect hook to fetch data when the city name changes.
